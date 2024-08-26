@@ -1,3 +1,7 @@
+# GoIT JavaScript Homework #12
+
+🔗 [Live site](https://svitla-dan.github.io/goit-js-hw-12/)
+
 # Vanilla App Template
 
 Цей проект було створено за допомогою Vite. Для знайомства та налаштування
